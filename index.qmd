@@ -7,7 +7,7 @@ format: html
 
 Hello, my name is Kiah Epperson. I'm studying Computer Science and Mathematics with an emphasis in Applied Mathematics, and I’m passionate about my family.
 
-![](img/IMG_3371.JPG.jpg)
+![](img/IMG_3371.JPG.jpg){.rounded-circle fig-align="center" width="60%"}
 
 I look forward to sharing my journey with you!
 
