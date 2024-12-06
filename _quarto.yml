@@ -2,7 +2,7 @@ project:
   type: website
   render:
     - "*.qmd"
-    - "!files/"
+    - "!img/"
   output-dir: docs
   resources:
     - "files/"
