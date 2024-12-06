@@ -1,11 +1,11 @@
 project:
   type: website
-  render: 
+  render:
     - "*.qmd"
     - "!files/"
   output-dir: docs
-  resources: 
-    - "files/" 
+  resources:
+    - "files/"
 
 
 website:
