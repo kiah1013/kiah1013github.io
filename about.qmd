@@ -4,8 +4,8 @@ format: html
 ---
 # About Me
 
-Hi, I'm [Your Name]! I'm a CS and Math student at CSUCI. I love [specific hobbies or interests].
+Hi, I'm Kiah Epperson! I'm a CS and Math student at CSUCI. I love playing videos and watching anime.
 
 Some facts about me:
-- I enjoy [hobby 1].
-- I'm passionate about [topic 1].
+- I enjoy making jewelry.
+- I'm passionate about my family.
