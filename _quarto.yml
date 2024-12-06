@@ -3,7 +3,7 @@ project:
   render: 
     - "*.qmd"
     - "!files/"
-  output-dir: public
+  output-dir: docs
   resources: 
     - "files/" 
 

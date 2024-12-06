@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nHi, I’m [Your Name]! I’m a CS and Math student at CSUCI. I love [specific hobbies or interests].\nSome facts about me: - I enjoy [hobby 1]. - I’m passionate about [topic 1]."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, my name is Kiah Epperson. I’m studying Computer Science and Mathematics with an emphasis in Applied Mathematics, and I’m passionate about my family.\n\nI look forward to sharing my journey with you!"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, my name is Kiah Epperson. I’m studying Computer Science and Mathematics with an emphasis in Applied Mathematics, and I’m passionate about my family.\n\nI look forward to sharing my journey with you!"
+  }
+]
