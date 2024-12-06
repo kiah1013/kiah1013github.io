@@ -1,0 +1,11 @@
+---
+title: "About"
+format: html
+---
+# About Me
+
+Hi, I'm [Your Name]! I'm a CS and Math student at CSUCI. I love [specific hobbies or interests].
+
+Some facts about me:
+- I enjoy [hobby 1].
+- I'm passionate about [topic 1].

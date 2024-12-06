@@ -1,0 +1,21 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+    - "!files/"
+  output-dir: public
+  resources: 
+    - "files/" 
+
+
+website:
+  title: "KIAH"
+  site-url:  https://kiah1013.github.io
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Resume"
+        href: resume.qmd

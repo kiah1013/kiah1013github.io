@@ -1,0 +1,14 @@
+---
+title: "Home"
+format: html
+---
+
+## Welcome to My Website!
+
+Hello, my name is Kiah Epperson. I'm studying Computer Science and Mathematics with an emphasis in Applied Mathematics, and I’m passionate about my family.
+
+![](img/IMG_3371.JPG.jpg)
+
+I look forward to sharing my journey with you!
+
+---
